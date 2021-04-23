@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Дневник диабетика</string>
+    <string name="sugar_level">уровень сахара: %s</string>
+    <string name="insulin_taken">принятый инсулин: %s</string>
+</resources>
